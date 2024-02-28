@@ -16,4 +16,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=merina62&show_icons=true&locale=en" alt="merina62" /></p>
 
 
-![Snake animation](https://github.com/merina62/merina62/blob/output/github-contribution-grid-snake.svg)
+(https://raw.githubusercontent.com/merina62/merina62/output/github-contribution-grid-snake-dark.svg)
