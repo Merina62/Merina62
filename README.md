@@ -14,6 +14,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=merina62&show_icons=true&locale=en&layout=compact" alt="merina62" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=merina62&show_icons=true&title_color=f282d4&locale=en" alt="merina62" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=merina62&theme=highcontrast" alt="merina62" /></p>
